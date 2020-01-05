@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Magic Ball</string>
+    <string name="greeting">Вопрос?</string>
+    <string name="notNow">Слишком много вопросов&#8230;</string>
+    <string-array name="messages">
+        <item>Да</item>
+        <item>Нет</item>
+        <item>Неважно</item>
+    </string-array>
+</resources>
